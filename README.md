@@ -7,10 +7,13 @@
 
 ## Website Preview
 #### Home Page
-<img src="website_images/Home_page.png" width="900">
+<img src="website-images/Home_page.png" width="900">
+
+#### Light theme Background skils section
+<img src="website-images/light_theme.png" width="900">
 
 #### Projects Work
-<img src="website_images/Project_Work.png" width="900">
+<img src="website-images/Project_Work.png" width="900">
   
 
 ## Features 📋
