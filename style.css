@@ -326,8 +326,11 @@
   .about-stats .progress-bars .progress-bar .progress-con .progress .js {
     width: 80%;
   }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-    width: 60%;
+  .about-stats .progress-bars .progress-bar .progress-con .progress .mvc {
+    width: 90%;
+  }
+ .about-stats .progress-bars .progress-bar .progress-con .progress .webapi {
+    width: 80%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .node {
     width: 87%;
